@@ -22,7 +22,7 @@ $ ls ~/toolkit/
 $ ps aux | grep projects
 PID  NAME              DESCRIPTION
 001  r-cli             RethinkDB command-line client
-002  jira-cli          Jira CLI tool
+002  datadog-cli       Datadog CLI tool
 003  pptr-mcp          Puppeteer MCP server
 004  notion-cli        Notion command-line client
 005  linear-cli        command-line interface for Linear.app
